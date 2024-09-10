@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: hancock_skyline.jpg
+  image_fullwidth: MengAurora.jpg
 widget1:
   title: "Vision"
   url: '/vision/'

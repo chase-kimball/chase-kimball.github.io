@@ -169,7 +169,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/newsandevents/">News and Events</a></li>
+              <li><a  href="http://localhost:4000/news/">News and Events</a></li>
               <li class="divider"></li>
 
             

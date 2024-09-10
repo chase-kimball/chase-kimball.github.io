@@ -1,7 +1,7 @@
 ---
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
-title               : "The SkAI Mission & Vision"
+title               : "The SkAI Mission"
 #subheadline         : "A Step-by-Step Guide"
 #teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
@@ -9,14 +9,14 @@ header:
 permalink           : "/vision/"
 ---
 ## Background
-Astronomical surveys of unprecedented scale, from the Vera C. Rubin Observatory to the CMB–Stage 4 ex-
-periment, promise transformational advances in astrophysics and cosmology. Boundary-pushing discoveries
+Astronomical surveys of unprecedented scale, from the Vera C. Rubin Observatory to the CMB–Stage 4 
+experiment, promise transformational advances in astrophysics and cosmology. Boundary-pushing discoveries
 will be realized across astronomy, from stars and black holes to galaxies to the largest scales and the earliest
 moments in the Universe. Fulfilling this promise requires overcoming enormous challenges in analyzing
 very large, heterogeneous datasets; in developing physically accurate simulations that span a vast range of
 scales to interpret those data; and in designing ever more complex astronomical instruments and surveys.
-Addressing these emerging challenges requires that we leverage the fast-paced revolution in Artificial In-
-telligence (AI). 
+Addressing these emerging challenges requires that we leverage the fast-paced revolution in 
+Artificial Intelligence. 
 
 ## Vision
 Bringing together 25 partner organizations, we are establishing the SkAI Institute, an
