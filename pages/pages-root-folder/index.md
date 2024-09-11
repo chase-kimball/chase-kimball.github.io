@@ -6,21 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: MengAurora.jpg
+  image_fullwidth: banners/Fireflies.jpg
+
 widget1:
   title: "Vision"
-  url: '/vision/'
-  image: AIcycle.png
+  url: '/about/'
+  image: banners/magneticsquare.jpg
   text: "Read about the SkAI Institute's vision for the future of AI in astronomy"
 widget2:
   title: "People"
-  url: '/directory/'
-  text: 'Meet the people and institutions behind the SkAI Institute'
-  image: logo_skai.png
+  url: '/people/'
+  text: 'Meet the team behind the SkAI Institute'
+  image: banners/Hancock_small.jpg
 widget3:
   title: "News & Events"
-  url: '/newsandevents/'
-  image: widget-github-303x182.jpg
+  url: '/news/'
+  image: banners/supernova.png
   text: 'Recent SkAI news and upcoming events'
 
 #
@@ -34,9 +35,9 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Sign up to stay informed of new SkAI developments ›
-  style: alert
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfiTXFlutPyQgVWfjiZ6pFtIs2j1BwtkRNJiTvaT_n0KXBAPQ/viewform?usp=sf_link
+  text: Sign up for email updates on new SkAI developments ›
+  style: success
 
 permalink: /index.html
 #

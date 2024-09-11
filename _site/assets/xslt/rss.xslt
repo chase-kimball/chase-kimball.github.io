@@ -139,7 +139,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/vision/">Mission</a></li>
+              <li><a  href="http://localhost:4000/about/">About the Institute</a></li>
               <li class="divider"></li>
 
             
@@ -154,7 +154,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/directory/">Directory</a></li>
+              <li><a  href="http://localhost:4000/people/">People</a></li>
               <li class="divider"></li>
 
             
@@ -181,6 +181,21 @@
 
           
           
+
+            
+            
+              <li><a  href="http://localhost:4000/jobs/">Jobs</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
         
         
       </ul>
@@ -188,6 +203,14 @@
       
 
       <ul class="right">
+        
+
+              
+
+
+
+          
+          
         
 
               

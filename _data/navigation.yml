@@ -2,20 +2,20 @@
   url: "/"
   side: left
 
-- title: Mission
-  url: "/vision/"
+- title: About the Institute
+  url: "/about/"
   side: left
 
-- title: Directory
-  url: "/directory/"
+- title: People
+  url: "/people/"
   side: left
 
-- title: Proposals
-  url: "/proposals/"
-  side: left
-
-  title: News and Events
+- title: News and Events
   url: "/news/"
+  side: left
+
+- title: Jobs
+  url: "/jobs/"
   side: left
 
 - title: "Contact"
