@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive This is a Test'
+title: 'SkAI Institute'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'AI for the Sky'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'The SkAI Institute for AI in Astronomy'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Chase Kimball
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -39,7 +39,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: '/images/' 
-#'https://phlow.github.io/feeling-responsive/images/'
+
 
 
 # Logo size is 600x80 pixels
@@ -113,7 +113,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Chase Kimball     # Default author for pages
   -
     scope:
       path: ''
@@ -122,7 +122,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Chase Kimball     # Default author for posts
 
 
 
@@ -158,17 +158,17 @@ bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32                        : 'favicon-32x32.png'
-touch-icon-192x192                   : 'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed : 'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed : 'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed : 'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed : 'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
-msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
+favicon-32x32                        : 'logo_skai.png'
+touch-icon-192x192                   : 'logo_skai.png'
+apple-touch-icon-180x180-precomposed : 'logo_skai.png'
+apple-touch-icon-152x152-precomposed : 'logo_skai.png'
+apple-touch-icon-144x144-precomposed : 'logo_skai.png'
+apple-touch-icon-120x120-precomposed : 'logo_skai.png'
+apple-touch-icon-114x114-precomposed : 'logo_skai.png'
+apple-touch-icon-76x76-precomposed   : 'logo_skai.png'
+apple-touch-icon-72x72-precomposed   : 'logo_skai.png'
+apple-touch-icon-precomposed         : 'logo_skai.png'
+msapplication_tileimage              : 'logo_skai.png'
 msapplication_tilecolor              : '#fabb00'
 
 
@@ -178,7 +178,7 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image                             : ''
 og_locale                            : 'en_EN'
 og_type                              : 'website'
 
@@ -193,8 +193,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : ''
+    facebook  : ''
 
 
 #        ____  _
