@@ -5,7 +5,7 @@ title               : "The SkAI Team"
 subheadline         : "Directory"
 teaser              : ""
 header:
-   image_fullwidth  : "hancock_skyline.jpg"
+   image_fullwidth  : "banners/hancock_skyline.jpg"
 permalink           : "/people/"
 ---
 

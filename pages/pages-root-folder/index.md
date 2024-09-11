@@ -11,17 +11,17 @@ header:
 widget1:
   title: "Vision"
   url: '/about/'
-  image: banners/magneticsquare.jpg
+  image: magneticsquare.jpg
   text: "Read about the SkAI Institute's vision for the future of AI in astronomy"
 widget2:
   title: "People"
   url: '/people/'
   text: 'Meet the team behind the SkAI Institute'
-  image: banners/Hancock_small.jpg
+  image: Hancock_small.jpg
 widget3:
   title: "News & Events"
   url: '/news/'
-  image: banners/supernova.png
+  image: supernova.png
   text: 'Recent SkAI news and upcoming events'
 
 #
