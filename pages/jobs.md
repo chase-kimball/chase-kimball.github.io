@@ -5,7 +5,7 @@ title               : "Careers at the SkAI Institute"
 #subheadline         : "A Step-by-Step Guide"
 #teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-   image_fullwidth  : "hancock_skyline.jpg"
+   image_fullwidth  : "banners/Hubble.png"
 permalink           : "/jobs/"
 
 callforaction:
