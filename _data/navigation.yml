@@ -2,9 +2,14 @@
   url: "/"
   side: left
 
-- title: About the Institute
+- title: About
   url: "/about/"
   side: left
+  dropdown:
+  - title: "Vision"
+    url: "/about/"
+  - title: "Partners"
+    url: "/institutions/"
 
 - title: People
   url: "/people/"

@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 show_meta           : false
-title               : "The SkAI Mission"
+title               : "The SkAI Institute"
 #subheadline         : "A Step-by-Step Guide"
 #teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
