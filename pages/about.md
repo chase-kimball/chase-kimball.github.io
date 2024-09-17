@@ -1,5 +1,6 @@
 ---
-layout              : page-fullwidth
+layout              : page
+sidebar: left
 show_meta           : false
 title               : "The SkAI Institute"
 #subheadline         : "A Step-by-Step Guide"

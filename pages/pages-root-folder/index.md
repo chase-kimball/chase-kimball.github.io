@@ -5,13 +5,15 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+sidebar: left
 header:
   image_fullwidth: banners/Fireflies.jpg
+
 
 widget1:
   title: "Vision"
   url: '/about/'
-  image: magneticsquare.jpg
+  image: SkAILogos/SkAI_Formal_RGB.png
   text: "Read about the SkAI Institute's vision for the future of AI in astronomy"
 widget2:
   title: "People"
