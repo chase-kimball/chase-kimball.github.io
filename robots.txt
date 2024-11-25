@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://chase-kimball.github.io/o/sitemap.xml
